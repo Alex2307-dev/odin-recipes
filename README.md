@@ -1,2 +1,2 @@
 # odin-recipes
-Create web site HTML with a few pages
+Create website HTML with four recipes on a few pag
